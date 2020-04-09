@@ -16,7 +16,7 @@ Power BI Por Alumnos En Casa es una iniciativa del [Power BI Spain Users Group](
 
 ![PBIPlayStore](pbiplaystore.png)
 
-9.	Utilizaremos la base de datos abierta de Alimentos disponible en: [Open Food Fact España](https://es.openfoodfacts.org), como Origen de Datos tipo Web con el siguiente enlace:  https://static.openfoodfacts.org/data/en.openfoodfacts.org.products.csv con codificación del archivo Unicode UTF-8 y el carácter que separa los campos es <tab> (tabulación).
+9.	Utilizaremos la base de datos abierta de Alimentos disponible en: [Open Food Fact España](https://es.openfoodfacts.org/data), como Origen de Datos tipo Web con el siguiente enlace:  https://static.openfoodfacts.org/data/en.openfoodfacts.org.products.csv con codificación del archivo Unicode UTF-8 y el carácter que separa los campos es <tab> (tabulación).
 
 Con esto ya teneis todo lo necesario para seguir el siguiente Video donde llevaremos a cabo con Power BI un Escanner de Códigos de Alimentos En Casa, AHORA OS TOCA A VOSOTROS!!
 
