@@ -1,5 +1,5 @@
 # PowerBIPorAlumnosEnCasa
-Power BI Por Alumnos En Casa es una iniciativa del [Power BI Spain Users Group](https://www.pbiusergroup.com/madrid) con el objetivo de conseguir que los alumnos entre 8 y 16 años utilicen y conozcan Power BI desde sus casas para “sus datos”.
+Power BI Por Alumnos En Casa es una iniciativa del [Power BI Spain Users Group](https://www.pbiusergroup.com/madrid) con el objetivo de conseguir que los alumnos entre 8 y 16 años utilicen y conozcan Power BI desde sus casas para “sus datos”. Con los siguientes requisitos tendreis todo lo necesario para seguir el siguiente Video-Tutorial donde en unos 15 minutos tendremos con Power BI un **Escanner de Códigos de Alimentos En Casa**.
 
 ### Requisitos previos:
 1.	No se tiene porqué tener ningún conocimiento previo, solo muchas ganas de aprender.
