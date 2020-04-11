@@ -20,4 +20,4 @@ Power BI Por Alumnos En Casa es una iniciativa del [Power BI Spain Users Group](
 
 Con esto ya teneis todo lo necesario para seguir el siguiente Video donde llevaremos a cabo con Power BI un Escanner de Códigos de Alimentos En Casa, AHORA OS TOCA A VOSOTROS!!
 
-VER VIDEO: 
+VER VIDEO: [https://youtu.be/FVofzYGiiQs](https://youtu.be/FVofzYGiiQs)
